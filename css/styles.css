@@ -25,6 +25,10 @@ body {
 
 }
 
+.list{
+    list-style: none;
+}
+
 .first-item {
     font-size: 16px;
     line-height: 1.5;
