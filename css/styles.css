@@ -1,6 +1,6 @@
 :root {
     --logo-color: #3f51b5;
-  }
+}
   
 
 body {
@@ -16,4 +16,6 @@ body {
     line-height: 1.17;
     text-transform: uppercase;
     text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
 }
