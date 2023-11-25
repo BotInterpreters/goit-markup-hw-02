@@ -25,15 +25,16 @@ body {
 
 .list {
     list-style: none;
+    font-weight: 500;
 }
 
 .list-item {
-    text-decoration: none;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-emphasis: none;
 }
 
 .list li:first-child a:hover,
@@ -45,3 +46,9 @@ body {
     font-style: normal;
 }
 
+.address-items .list-address-item link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
