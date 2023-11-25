@@ -1,7 +1,7 @@
 :root {
     --logo-color: #3f51b5;
 }
-  
+
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -22,10 +22,9 @@ body {
 
 .header-logo {
     color: #2e2f42
-
 }
 
-.list{
+.list {
     list-style: none;
 }
 
@@ -41,3 +40,21 @@ body {
     color: #2e2f42;
 }
 
+.list li:first-child:hover a {
+    color: #404bbf;
+}
+
+.list li:first-child:focus a {
+    color: #404bbf;
+}
+
+.address-list {
+    font-style: normal;
+}
+
+.list-address-item {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+    
+} 
