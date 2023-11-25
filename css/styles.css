@@ -19,3 +19,27 @@ body {
     letter-spacing: 0.03em;
     color: #4d5ae5;
 }
+
+.header-logo {
+    color: #2e2f42
+
+}
+
+.first-item {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.first-item .link:active {
+    text-decoration: none;
+}
+
+.first-item .link:hover {
+    color:#404bbf
+}
+
+.first-item .link:focus {
+    color:#404bbf
+}
