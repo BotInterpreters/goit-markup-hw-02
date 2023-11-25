@@ -2,7 +2,6 @@
     --logo-color: #3f51b5;
 }
 
-
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -28,11 +27,8 @@ body {
     list-style: none;
 }
 
-.link {
-    text-decoration: none;
-}
-
 .list-item {
+    text-decoration: none;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
