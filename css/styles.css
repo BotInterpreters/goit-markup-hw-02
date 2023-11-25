@@ -16,7 +16,7 @@ body {
     line-height: 1.17;
     text-transform: uppercase;
     text-decoration: none;
-    letter-spacing: 0.003em;
+    letter-spacing: 0.03em;
     color: #4d5ae5;
 }
 
@@ -30,9 +30,9 @@ body {
 
 .link {
     text-decoration: none;
-    line-height: 1.5;
+    /* line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #434455; */
 }
 
 .list-item {
