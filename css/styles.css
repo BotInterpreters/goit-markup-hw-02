@@ -52,3 +52,7 @@ body {
     color: #434455;
     text-decoration: none;
 }
+
+.address-items .list-address-item:focus , .address-items .list-address-item:hover {
+    color: #404bbf;
+}
