@@ -1,5 +1,5 @@
 :root {
-    --remove-text-dec: #3f51b5;
+    --remove-text-dec:
 }
 
 body {
@@ -28,11 +28,7 @@ body {
     font-weight: 500;
 }
 
-.link {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 
 .list-item {
     font-weight: 500;
