@@ -1,5 +1,5 @@
 :root {
-    --logo-color: #3f51b5;
+    --remove-text-dec: #3f51b5;
 }
 
 body {
@@ -26,6 +26,12 @@ body {
 .list {
     list-style: none;
     font-weight: 500;
+}
+
+.link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .list-item {
