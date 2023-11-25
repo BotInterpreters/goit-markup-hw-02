@@ -40,21 +40,12 @@ body {
     color: #2e2f42;
 }
 
-.list li:first-child:hover a {
-    color: #404bbf;
-}
-
+.list li:first-child:hover a,
 .list li:first-child:focus a {
     color: #404bbf;
 }
 
-/* .address-list {
+.address-items {
     font-style: normal;
 }
 
-.list-address-item {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-
-}  */
