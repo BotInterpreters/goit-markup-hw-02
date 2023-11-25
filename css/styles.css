@@ -40,8 +40,8 @@ body {
     color: #2e2f42;
 }
 
-.list li:first-child:hover a,
-.list li:first-child:focus a {
+.list li:first-child a:hover,
+.list li:first-child a:focus {
     color: #404bbf;
 }
 
