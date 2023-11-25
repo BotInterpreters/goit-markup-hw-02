@@ -29,7 +29,11 @@ body {
     list-style: none;
 }
 
-.first-item {
+.link {
+    text-decoration: none;
+}
+
+.list-item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -37,18 +41,3 @@ body {
     color: #2e2f42;
 }
 
-.link {
-    text-decoration: none;
-}
-
-.first-item .link:active {
-   color:#404bbf
-}
-
-.first-item .link:hover {
-    color:#404bbf
-}
-
-.first-item .link:focus {
-    color:#404bbf
-}
