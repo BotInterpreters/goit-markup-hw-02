@@ -155,6 +155,10 @@ body {
     text-decoration: none;
 }
 
+.portfolio-button:hover {
+    color: #FFFFFF;
+}
+
 .portfolio-button:focus, portfolio-button:active{
     color: #FFFFFF;
     background-color: #404BBF;
