@@ -119,13 +119,17 @@ body {
     color: #2e2f42;
 }
 
-.first-item{
+.list-item-team{
     background-color: #FFFFFF
 }
 
 
 .footer-section {
     background-color: #2e2f42;
+}
+
+.footer-logo{
+    color: #f4f4fd;
 }
 
 .footer-text {
