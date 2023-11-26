@@ -151,8 +151,13 @@ body {
     cursor: pointer;
 }
 
-.portfolio-button:focus, portfolio-button:hover{
+.portfolio-link{
+    text-decoration: none;
+}
+
+.portfolio-button:focus, portfolio-button:active{
     color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .header-second-list {
